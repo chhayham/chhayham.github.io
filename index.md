@@ -1,3 +1,13 @@
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: default
+# title: Resume
+---
 <!-- **Chhay Ham**  
 [chhayham@gmail.com](mailto:chhayham@gmail.com) -->
 
@@ -59,8 +69,7 @@ Results-driven **Platform Engineer** with a strong passion for **empowering deve
 
 ### **TECHNICAL SKILLS**
 
-| DevOps | Cloud Platforms | Programming |
-|---|---|---|
+| DevOps, SRE | Cloud Platforms | Programming |
 | CI/CD (Jenkins, GitHub Actions) | AWS (EKS, EC2, RDS) | Go, Python, JavaScript |
 | Kubernetes | Terraform, Ansible | Helm, Groovy |
 | Infrastructure as Code | DataDog, PagerDuty | Agile, Git, Akamai |
