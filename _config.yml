@@ -30,6 +30,7 @@ url: "https://chhayham.github.io" # the base hostname & protocol for your site, 
 github_username:  chhayham
 
 # Build settings
+# remote_theme: "jekyll/minima@1e8a445"
 theme: minima
 # plugins:
 #   - jekyll-feed
@@ -42,7 +43,8 @@ theme: minima
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - _posts
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
@@ -53,3 +55,6 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+markdown: kramdown
+style: kjhealy

@@ -1,7 +1,5 @@
-**Chhay Ham**  
-[chhayham@gmail.com](mailto:chhayham@gmail.com) | 253-310-1775
-
----
+<!-- **Chhay Ham**  
+[chhayham@gmail.com](mailto:chhayham@gmail.com) -->
 
 ### **ABOUT ME**
 Results-driven **Platform Engineer** with a strong passion for **empowering developers** through **CI/CD best practices, Infrastructure as Code (IaC), and Configuration as Code**. Experienced in designing, automating, and maintaining scalable cloud infrastructure to optimize development workflows and enhance system reliability.
@@ -49,7 +47,7 @@ Results-driven **Platform Engineer** with a strong passion for **empowering deve
 
 #### **Amazon | North America Fulfillment Centers** (October 2014 – September 2015)  
 **IT Support Engineer II** | Sumner, WA
-- Managed **large-scale IT infrastructure projects** across fulfillment centers.
+- Managed **large-scale IT infrastructure projects** across North American fulfillment centers.
 - Provided Tier 1 support for **Kiva Mobile Fulfillment Systems**.
 
 #### **Amazon | North America Fulfillment Centers** (February 2013 – October 2014)  
@@ -60,6 +58,7 @@ Results-driven **Platform Engineer** with a strong passion for **empowering deve
 ---
 
 ### **TECHNICAL SKILLS**
+
 | DevOps | Cloud Platforms | Programming |
 |---|---|---|
 | CI/CD (Jenkins, GitHub Actions) | AWS (EKS, EC2, RDS) | Go, Python, JavaScript |
@@ -69,12 +68,14 @@ Results-driven **Platform Engineer** with a strong passion for **empowering deve
 ---
 
 ### **EDUCATION & CERTIFICATIONS**
+
 **Associate of Applied Technology, Computer Networking & Information Systems Security**  
 Clover Park Technical College, Lakewood, WA (2011)
 
 ---
 
 ### **KEY HIGHLIGHTS**
+
 - **8+ years** of experience in **DevOps, platform engineering, and cloud infrastructure**.
 - Extensive expertise in **AWS, Kubernetes, Terraform, and CI/CD automation**.
 - Strong background in **mentoring and training junior engineers**.
