@@ -6,7 +6,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-# title: Resume
 ---
 <!-- **Chhay Ham**  
 [chhayham@gmail.com](mailto:chhayham@gmail.com) -->
